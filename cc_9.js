@@ -71,3 +71,6 @@ const company = new Company("TechCorp");
 company.addEmployee(emp1);
 company.addEmployee(mge1);
 company.listEmployees();
+
+// Task 4 
+console.log(company.calculateTotalPayroll());
