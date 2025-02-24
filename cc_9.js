@@ -74,3 +74,7 @@ company.listEmployees();
 
 // Task 4 
 console.log(company.calculateTotalPayroll());
+
+// task 5 
+company.promoteToManager(emp1, 3);
+company.listEmployees();
